@@ -274,7 +274,7 @@ body {
   line-height: 40px;
   border-radius: 50px;
   background-color: #e8f6ea;
-  font-width: 500;
+  font-weight: 500;
   color: #088178;
   border: 1px solid #cce7d0;
   position: absolute;
@@ -308,5 +308,10 @@ body {
 
 #banner h2 span{
   color: #ef3636;
+}
+
+#banner button:hover{
+  background-color: #088178;
+  color: #fff;
 }
 
